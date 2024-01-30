@@ -24,4 +24,3 @@ def question6_3():
         'equal_frequency': ['No change', 2]
     }
     return answer 
-
